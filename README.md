@@ -15,7 +15,8 @@ Each problem includes:
 
 | Problem | Python | Java |
 |---------|--------|------|
-| 0001 - Two Sum | [python/0001-two-sum](python/0001-two-sum.py) | [java/0001-two-sum](java/0001-two-sum.java) |
+| 0001 - Two Sum | [python/0001-two-sum.py](python/0001-two-sum.py) | [java/0001-two-sum.java](java/0001-two-sum.java) |
+| 0002 - Add Two Numbers | [python/0002-add-two-numbers.py](python/0002-add-two-numbers.py) | [java/0002-add-two-numbers.java](java/0002-add-two-numbers.java) |
 
 ## How to Run
 
