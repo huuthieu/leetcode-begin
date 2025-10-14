@@ -17,6 +17,7 @@ Each problem includes:
 |---------|--------|------|
 | 0001 - Two Sum | [python/0001-two-sum.py](python/0001-two-sum.py) | [java/0001-two-sum.java](java/0001-two-sum.java) |
 | 0002 - Add Two Numbers | [python/0002-add-two-numbers.py](python/0002-add-two-numbers.py) | [java/0002-add-two-numbers.java](java/0002-add-two-numbers.java) |
+| 0003 - Longest Substring Without Repeating Characters | [python/0003-longest-substring-without-repeating-characters.py](python/0003-longest-substring-without-repeating-characters.py) | [java/0003-longest-substring-without-repeating-characters.java](java/0003-longest-substring-without-repeating-characters.java) |
 
 ## How to Run
 
@@ -29,7 +30,7 @@ python 0001-two-sum.py
 ### Java
 ```bash
 cd java
-javac TwoSum.java
+javac 0001-two-sum.java
 java TwoSum
 ```
 
