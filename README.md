@@ -35,6 +35,55 @@ Each problem includes:
 | 0018 - 4Sum | [python/0018-4sum.py](python/0018-4sum.py) | [java/0018-4sum.java](java/0018-4sum.java) |
 | 0019 - Remove Nth Node From End of List | [python/0019-remove-nth-node-from-end-of-list.py](python/0019-remove-nth-node-from-end-of-list.py) | [java/0019-remove-nth-node-from-end-of-list.java](java/0019-remove-nth-node-from-end-of-list.java) |
 | 0020 - Valid Parentheses | [python/0020-valid-parentheses.py](python/0020-valid-parentheses.py) | [java/0020-valid-parentheses.java](java/0020-valid-parentheses.java) |
+| 0021 - Merge Two Sorted Lists | [python/0021-merge-two-sorted-lists.py](python/0021-merge-two-sorted-lists.py) | [java/0021-merge-two-sorted-lists.java](java/0021-merge-two-sorted-lists.java) |
+| 0022 - Generate Parentheses | [python/0022-generate-parentheses.py](python/0022-generate-parentheses.py) | [java/0022-generate-parentheses.java](java/0022-generate-parentheses.java) |
+| 0023 - Merge K Sorted Lists | [python/0023-merge-k-sorted-lists.py](python/0023-merge-k-sorted-lists.py) | [java/0023-merge-k-sorted-lists.java](java/0023-merge-k-sorted-lists.java) |
+| 0024 - Swap Nodes in Pairs | [python/0024-swap-nodes-in-pairs.py](python/0024-swap-nodes-in-pairs.py) | [java/0024-swap-nodes-in-pairs.java](java/0024-swap-nodes-in-pairs.java) |
+| 0025 - Reverse Nodes in K-Group | [python/0025-reverse-nodes-in-k-group.py](python/0025-reverse-nodes-in-k-group.py) | [java/0025-reverse-nodes-in-k-group.java](java/0025-reverse-nodes-in-k-group.java) |
+| 0026 - Remove Duplicates from Sorted Array | [python/0026-remove-duplicates-from-sorted-array.py](python/0026-remove-duplicates-from-sorted-array.py) | [java/0026-remove-duplicates-from-sorted-array.java](java/0026-remove-duplicates-from-sorted-array.java) |
+| 0027 - Remove Element | [python/0027-remove-element.py](python/0027-remove-element.py) | [java/0027-remove-element.java](java/0027-remove-element.java) |
+| 0028 - Find the Index of the First Occurrence in a String | [python/0028-find-the-index-of-first-occurrence-in-a-string.py](python/0028-find-the-index-of-first-occurrence-in-a-string.py) | [java/0028-find-the-index-of-first-occurrence-in-a-string.java](java/0028-find-the-index-of-first-occurrence-in-a-string.java) |
+| 0029 - Divide Two Integers | [python/0029-divide-two-integers.py](python/0029-divide-two-integers.py) | [java/0029-divide-two-integers.java](java/0029-divide-two-integers.java) |
+| 0030 - Substring with Concatenation of All Words | [python/0030-substring-with-concatenation-of-all-words.py](python/0030-substring-with-concatenation-of-all-words.py) | [java/0030-substring-with-concatenation-of-all-words.java](java/0030-substring-with-concatenation-of-all-words.java) |
+| 0042 - Trapping Rain Water | [python/0042-trapping-rain-water.py](python/0042-trapping-rain-water.py) | [java/0042-trapping-rain-water.java](java/0042-trapping-rain-water.java) |
+| 0053 - Maximum Subarray | [python/0053-maximum-subarray.py](python/0053-maximum-subarray.py) | [java/0053-maximum-subarray.java](java/0053-maximum-subarray.java) |
+| 0102 - Binary Tree Level Order Traversal | [python/0102-binary-tree-level-order-traversal.py](python/0102-binary-tree-level-order-traversal.py) | [java/0102-binary-tree-level-order-traversal.java](java/0102-binary-tree-level-order-traversal.java) |
+| 0104 - Maximum Depth of Binary Tree | [python/0104-maximum-depth-of-binary-tree.py](python/0104-maximum-depth-of-binary-tree.py) | [java/0104-maximum-depth-of-binary-tree.java](java/0104-maximum-depth-of-binary-tree.java) |
+| 0121 - Best Time to Buy and Sell Stock | [python/0121-best-time-to-buy-and-sell-stock.py](python/0121-best-time-to-buy-and-sell-stock.py) | [java/0121-best-time-to-buy-and-sell-stock.java](java/0121-best-time-to-buy-and-sell-stock.java) |
+| 0200 - Number of Islands | [python/0200-number-of-islands.py](python/0200-number-of-islands.py) | [java/0200-number-of-islands.java](java/0200-number-of-islands.java) |
+| 0206 - Reverse Linked List | [python/0206-reverse-linked-list.py](python/0206-reverse-linked-list.py) | [java/0206-reverse-linked-list.java](java/0206-reverse-linked-list.java) |
+| 0207 - Course Schedule | [python/0207-course-schedule.py](python/0207-course-schedule.py) | [java/0207-course-schedule.java](java/0207-course-schedule.java) |
+| 0217 - Contains Duplicate | [python/0217-contains-duplicate.py](python/0217-contains-duplicate.py) | [java/0217-contains-duplicate.java](java/0217-contains-duplicate.java) |
+| 0242 - Valid Anagram | [python/0242-valid-anagram.py](python/0242-valid-anagram.py) | [java/0242-valid-anagram.java](java/0242-valid-anagram.java) |
+| 0322 - Coin Change | [python/0322-coin-change.py](python/0322-coin-change.py) | [java/0322-coin-change.java](java/0322-coin-change.java) |
+
+## Interview-Focused Problems
+
+### Most Frequently Asked (★★★★★)
+- **0001 - Two Sum**: Hash map fundamentals
+- **0020 - Valid Parentheses**: Stack basics
+- **0015 - 3Sum**: Two-pointer technique
+- **0200 - Number of Islands**: DFS/BFS graph traversal
+- **0121 - Best Time to Buy and Sell Stock**: Greedy algorithm
+
+### Very Common (★★★★)
+- **0042 - Trapping Rain Water**: Two-pointer, DP, or stack
+- **0102 - Binary Tree Level Order Traversal**: BFS/DFS tree traversal
+- **0206 - Reverse Linked List**: Linked list pointer manipulation
+- **0207 - Course Schedule**: Cycle detection (topological sort)
+- **0322 - Coin Change**: Classic DP problem
+
+### Pattern-Based Learning
+
+**Key Patterns to Master:**
+1. **Sliding Window**: Fixed/variable window for substring problems
+2. **Two Pointer**: Array manipulation, collision detection
+3. **Binary Search**: Sorted array search space reduction
+4. **DFS/BFS**: Graph/tree traversal and connectivity
+5. **Dynamic Programming**: Overlapping subproblems, memoization
+6. **Backtracking**: Permutations, combinations, sudoku
+7. **Greedy**: Activity selection, interval scheduling
+8. **Bit Manipulation**: Single number, power checks
 
 ## How to Run
 
