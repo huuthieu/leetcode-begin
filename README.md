@@ -75,20 +75,20 @@ Each problem includes:
 | **0040 - Combination Sum II** | Medium | Backtracking | 2 | ⏳ TODO |
 | **0046 - Permutations** | Medium | Backtracking | 1 | ✅ DONE |
 | **0047 - Permutations II** | Medium | Backtracking | 2 | ⏳ TODO |
-| **0055 - Jump Game** | Medium | Greedy/DP | 2 | ⏳ TODO |
-| **0056 - Merge Intervals** | Medium | Array/Sorting | 2 | ⏳ TODO |
+| **0055 - Jump Game** | Medium | Greedy/DP | 2 | ✅ DONE |
+| **0056 - Merge Intervals** | Medium | Array/Sorting | 2 | ✅ DONE |
 | **0078 - Subsets** | Medium | Backtracking | 1 | ✅ DONE |
 | **0079 - Word Search** | Medium | Backtracking/DFS | 2 | ⏳ TODO |
-| **0091 - Decode Ways** | Medium | DP | 2 | ⏳ TODO |
+| **0091 - Decode Ways** | Medium | DP | 2 | ✅ DONE |
 | **0105 - Construct Binary Tree from Preorder/Inorder** | Medium | Tree | 2 | ⏳ TODO |
 | **0106 - Construct Binary Tree from Inorder/Postorder** | Medium | Tree | 2 | ⏳ TODO |
 | **0124 - Binary Tree Maximum Path Sum** | Hard | Tree | 2 | ⏳ TODO |
 | **0139 - Word Break** | Medium | DP | 1 | ✅ DONE |
-| **0141 - Linked List Cycle** | Easy | Linked List | 1 | ⏳ TODO |
+| **0141 - Linked List Cycle** | Easy | Linked List | 1 | ✅ DONE |
 | **0143 - Reorder List** | Medium | Linked List | 2 | ⏳ TODO |
-| **0146 - LRU Cache** | Hard | Design/Hash Map | 1 | ⏳ TODO |
+| **0146 - LRU Cache** | Hard | Design/Hash Map | 1 | ✅ DONE |
 | **0150 - Evaluate Reverse Polish Notation** | Medium | Stack | 2 | ⏳ TODO |
-| **0155 - Min Stack** | Easy | Stack | 1 | ⏳ TODO |
+| **0155 - Min Stack** | Easy | Stack | 1 | ✅ DONE |
 | **0236 - Lowest Common Ancestor** | Medium | Tree | 2 | ⏳ TODO |
 | **0264 - Ugly Number II** | Medium | DP | 2 | ⏳ TODO |
 | **0279 - Perfect Squares** | Medium | DP | 2 | ⏳ TODO |
