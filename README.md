@@ -56,6 +56,50 @@ Each problem includes:
 | 0217 - Contains Duplicate | [python/0217-contains-duplicate.py](python/0217-contains-duplicate.py) | [java/0217-contains-duplicate.java](java/0217-contains-duplicate.java) |
 | 0242 - Valid Anagram | [python/0242-valid-anagram.py](python/0242-valid-anagram.py) | [java/0242-valid-anagram.java](java/0242-valid-anagram.java) |
 | 0322 - Coin Change | [python/0322-coin-change.py](python/0322-coin-change.py) | [java/0322-coin-change.java](java/0322-coin-change.java) |
+| 0070 - Climbing Stairs | [python/0070-climbing-stairs.py](python/0070-climbing-stairs.py) | [java/0070-climbing-stairs.java](java/0070-climbing-stairs.java) |
+| 0198 - House Robber | [python/0198-house-robber.py](python/0198-house-robber.py) | [java/0198-house-robber.java](java/0198-house-robber.java) |
+| 0033 - Search in Rotated Sorted Array | [python/0033-search-in-rotated-sorted-array.py](python/0033-search-in-rotated-sorted-array.py) | [java/0033-search-in-rotated-sorted-array.java](java/0033-search-in-rotated-sorted-array.java) |
+| 0039 - Combination Sum | [python/0039-combination-sum.py](python/0039-combination-sum.py) | [java/0039-combination-sum.java](java/0039-combination-sum.java) |
+| 0046 - Permutations | [python/0046-permutations.py](python/0046-permutations.py) | [java/0046-permutations.java](java/0046-permutations.java) |
+| 0078 - Subsets | [python/0078-subsets.py](python/0078-subsets.py) | [java/0078-subsets.java](java/0078-subsets.java) |
+| 0139 - Word Break | [python/0139-word-break.py](python/0139-word-break.py) | [java/0139-word-break.java](java/0139-word-break.java) |
+
+## Missing Popular Interview Problems (TODO)
+
+| Problem | Difficulty | Category | Priority | Status |
+|---------|-----------|----------|----------|--------|
+| **0031 - Next Permutation** | Medium | Array | 2 | ⏳ TODO |
+| **0033 - Search in Rotated Sorted Array** | Medium | Binary Search | 1 | ✅ DONE |
+| **0034 - Find First and Last Position** | Medium | Binary Search | 2 | ⏳ TODO |
+| **0039 - Combination Sum** | Medium | Backtracking | 1 | ✅ DONE |
+| **0040 - Combination Sum II** | Medium | Backtracking | 2 | ⏳ TODO |
+| **0046 - Permutations** | Medium | Backtracking | 1 | ✅ DONE |
+| **0047 - Permutations II** | Medium | Backtracking | 2 | ⏳ TODO |
+| **0055 - Jump Game** | Medium | Greedy/DP | 2 | ⏳ TODO |
+| **0056 - Merge Intervals** | Medium | Array/Sorting | 2 | ⏳ TODO |
+| **0078 - Subsets** | Medium | Backtracking | 1 | ✅ DONE |
+| **0079 - Word Search** | Medium | Backtracking/DFS | 2 | ⏳ TODO |
+| **0091 - Decode Ways** | Medium | DP | 2 | ⏳ TODO |
+| **0105 - Construct Binary Tree from Preorder/Inorder** | Medium | Tree | 2 | ⏳ TODO |
+| **0106 - Construct Binary Tree from Inorder/Postorder** | Medium | Tree | 2 | ⏳ TODO |
+| **0124 - Binary Tree Maximum Path Sum** | Hard | Tree | 2 | ⏳ TODO |
+| **0139 - Word Break** | Medium | DP | 1 | ✅ DONE |
+| **0141 - Linked List Cycle** | Easy | Linked List | 1 | ⏳ TODO |
+| **0143 - Reorder List** | Medium | Linked List | 2 | ⏳ TODO |
+| **0146 - LRU Cache** | Hard | Design/Hash Map | 1 | ⏳ TODO |
+| **0150 - Evaluate Reverse Polish Notation** | Medium | Stack | 2 | ⏳ TODO |
+| **0155 - Min Stack** | Easy | Stack | 1 | ⏳ TODO |
+| **0236 - Lowest Common Ancestor** | Medium | Tree | 2 | ⏳ TODO |
+| **0264 - Ugly Number II** | Medium | DP | 2 | ⏳ TODO |
+| **0279 - Perfect Squares** | Medium | DP | 2 | ⏳ TODO |
+| **0297 - Serialize and Deserialize Binary Tree** | Hard | Tree Design | 2 | ⏳ TODO |
+| **0416 - Partition Equal Subset Sum** | Medium | DP/Knapsack | 2 | ⏳ TODO |
+| **0435 - Non-overlapping Intervals** | Medium | Greedy | 2 | ⏳ TODO |
+
+**Legend:**
+- Priority 1: Essential for interviews, most frequently asked
+- Priority 2: Important but slightly less frequent
+- Status: ⏳ TODO (not started), ✅ DONE (completed)
 
 ## Interview-Focused Problems
 
@@ -72,6 +116,13 @@ Each problem includes:
 - **0206 - Reverse Linked List**: Linked list pointer manipulation
 - **0207 - Course Schedule**: Cycle detection (topological sort)
 - **0322 - Coin Change**: Classic DP problem
+- **0070 - Climbing Stairs**: DP fundamentals
+- **0198 - House Robber**: DP with constraints
+
+### Important Patterns (★★★)
+- **0026 - Remove Duplicates**: Two-pointer technique
+- **0104 - Maximum Depth of Binary Tree**: Tree traversal basics
+- **0121 - Best Time to Buy and Sell Stock**: DP/Greedy optimization
 
 ### Pattern-Based Learning
 
